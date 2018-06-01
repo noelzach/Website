@@ -1,0 +1,9 @@
+---
+title: "index.Rmd"
+---
+
+Hello! Welcome to my website!
+
+This is a website to highlight myself, my current research and to have a place to write about current plant pathology research. 
+
+This website is a work in progress. Keep checking in for more updates!
